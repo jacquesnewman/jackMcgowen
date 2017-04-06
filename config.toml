@@ -95,7 +95,7 @@ googleAnalytics = ""
       [[params.services.row.list]]
         icon = "fa-code"
         title = "Languages"
-        description = "C++<br>C#<br>C<br>Lua<br>Java<br>HLSL (familiar)<br>GLSL (familiar)<br>Python (familiar)<br>"
+        description = "C/C++<br>C#<br>HLSL<br>GLSL (familiar)<br>XAML (familiar)<br>"
 
       [[params.services.row.list]]
         icon = "fa-book"
