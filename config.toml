@@ -96,15 +96,18 @@ googleAnalytics = ""
         icon = "fa-code"
         title = "Languages"
         description = "C/C++<br>C#<br>HLSL<br>GLSL (familiar)<br>XAML (familiar)<br>"
-
+      [[params.services.row.list]]
+        icon = "fa-wrench"
+        title = "Technical Skills"
+        description =  "Parallel Programming<br>Profiling (CPU/GPU)<br>Memory Management<br>Game Systems<br>System Architecture<br>Deferred Shading<br>VFX post-processing<br>Networking<br>Optimizing"
       [[params.services.row.list]]
         icon = "fa-book"
         title = "Libraries"
-        description =  "Dear ImGui<br>UnityEditor<br>LuaBridge<br>Lua C API (familiar)<br>DirectX11 (familiar)<br>OpenGL (familiar)<br>"
+        description =  "Visual Studio<br>DirectX12<br>DirectX11<br>DirectXTex<br>XNA<br>Havok (familiar)"
       [[params.services.row.list]]
         icon = "fa-desktop"
         title = "Development Tools"
-        description = "Visual Studio 2012-2015<br>Unity3D<br>IntelliJ IDEA<br>Microsoft Windows 7, 10<br>Linux Terminal (comfortable)<br>"
+        description = "Visual Studio<br>Mecurial<br>Very-Sleepy Profiler<br>Slack<br>Trello<br>Maya (familiar)<br>Photoshop (familiar)"
 
   # Portfolio section
   [params.portfolio]
@@ -158,7 +161,7 @@ googleAnalytics = ""
       name = "Jack McGowen"
       position = "[_Resume_](JackMcGowenResume.pdf)"
       social = [
-        #["fa-linkedin", "https://www.linkedin.com/in/jacques-newman-48804b106"],
+        ["fa-linkedin", "https://www.linkedin.com/in/jackmcgowen/"],
         #["fa-github", "https://github.com/jacquesnewman"]
       ]
  
